@@ -7,6 +7,6 @@ async function getCountry(){
     
     if (!country) {
         alert("Please enter a country");
-        return;
+       
     }
 }
