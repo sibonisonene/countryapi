@@ -1,4 +1,4 @@
-const country = document.getElementById("")
+const country = document.getElementById("country-search")
 
 async function getCountry(){
     const country = document.getElementById("country-search");
